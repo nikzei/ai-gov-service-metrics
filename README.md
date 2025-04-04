@@ -1,6 +1,6 @@
 # AI Government Service Metrics
 
-A research sandbox space for exploring how state government programs can monitor and implement generative AI applications in their workflows.
+A sandbox space for exploring how state government programs can monitor and implement generative AI applications in their workflows.
 
 ## 🎯 Project Goals
 
