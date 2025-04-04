@@ -1,6 +1,6 @@
 # AI Government Service Metrics
 
-A sandbox space for exploring ways for government program delivery teams to monitor automations in their workflows.
+A sandbox space for exploring how government program delivery teams can monitor automations in their workflows against key criteria.
 
 ## 🎯 Project Goals
 
